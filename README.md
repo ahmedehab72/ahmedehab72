@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ehab</h1>
-<h3 align="center">A frontend developer ReactJS from egypt</h3>
+<h3 align="center">A frontend Developer React Next Js</h3>
 
 
 <img src='https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif' alt='gif'/>
 
 **About me**
 
-- 💼 FrontEnd Engineer
+- 💼 FrontEnd Engineer study computer Secience
 - 📫 How to reach me **midoehab72a@gmail.com**
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 <h3 align="left">Connect with me:</h3>
